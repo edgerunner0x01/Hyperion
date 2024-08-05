@@ -7,16 +7,27 @@ This tool is a shell interface designed to integrate the zProbe (https://github.
 ## Features
 
 -Extract Comments: Retrieve comments embedded in HTML.
+
 -Extract Metadata: Collect metadata from web pages.
+
 -Extract URLs: Gather all URLs present on a web page.
+
 -Extract Emails: Find and extract email addresses.
+
 -Extract Robots.txt: Retrieve and parse robots.txt files.
+
 -Extract Sitemap.xml: Extract URLs from sitemap.xml files.
+
 -Extract XML URLs: Gather URLs from XML files.
+
 -Extract WP-Login Form Parameters: Extract parameters from WordPress login forms.
+
 -Shell Interface: Interactive command-line interface for user-friendly interaction.
+
 -OOP Design: Organized with object-oriented programming for better maintainability.
+
 -Logging: Detailed logging for debugging and auditing.
+
 -Error Handling: Robust error handling mechanisms.
 
 ### Screenshot
