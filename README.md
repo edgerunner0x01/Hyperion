@@ -56,5 +56,5 @@ This tool is a shell interface designed to integrate the zProbe (https://github.
 
 Run the shell interface:
 ```bash
-python main.py
+python3 main.py
 ```
